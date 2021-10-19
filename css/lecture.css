@@ -1,4 +1,4 @@
-.Intro {
+.intro {
   background-color: #a5a5a5;
 font-style: oblique;
 font-size: large;
@@ -12,6 +12,11 @@ text-align: center;
   width: 50%;
 }
 
-.Title {
+.title {
   font-size: x-large;
+}
+
+.highlight {
+  font-weight: 500;
+  background-color: gold;
 }
